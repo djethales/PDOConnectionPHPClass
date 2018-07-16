@@ -4,7 +4,7 @@
 	define('user','root');
 	define('port', '3306');
 	define('pass',''); //3306 MySql - 5432 PostGres
-	define('database','hclivabe');
+	define('database','bdName');
 	define('charset','utf8');
 	//Constante de registros por pagina -> Paginacion de resultados
 	define('tamanoPagina', 10);
@@ -12,8 +12,8 @@
 	define('tamanoBloque',2);
 	define('PaginaPrincipal', 'administracion.php');
 	//Marca
-	define('nombreEmpresa','Dra. Lizet V. Benavides A.');
-	define('webUrl','www.lizetbenavidesdermatologa.com');
+	define('nombreEmpresa','Dany Pascual Gomez Sanchez.');
+	define('webUrl','www.quimeraingenieria.com.co');
 /*
 	$ops:
 	1 Listar
